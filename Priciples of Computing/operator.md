@@ -1,0 +1,1 @@
+A built-in function, often denoted with special characters, that manipulates data as [[operands]].

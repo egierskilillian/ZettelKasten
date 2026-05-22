@@ -1,0 +1,1 @@
+Data to be manipulated by an [[operator]].

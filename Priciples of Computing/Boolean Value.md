@@ -1,0 +1,1 @@
+A value that is either True or False, Yes or No, On or Off, 1 or 0. 

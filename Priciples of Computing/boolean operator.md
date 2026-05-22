@@ -1,0 +1,1 @@
+An [[operator]] that returns a [[boolean value]].
