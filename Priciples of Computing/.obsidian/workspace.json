@@ -11,33 +11,14 @@
             "id": "6caadd5de6775e14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "684da68c1e946e2f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f684a8a5a3fb4a2d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Group Project.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2026-05-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Group Project"
+              "icon": "lucide-file",
+              "title": "2026-05-20"
             }
           }
         ]
@@ -93,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Project.canvas",
+                "file": "2026-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Group Project"
+              "title": "Backlinks for 2026-05-20"
             }
           },
           {
@@ -132,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Group Project.canvas",
+                "file": "2026-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Group Project"
+              "title": "Outgoing links from 2026-05-20"
             }
           },
           {
@@ -175,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Group Project.canvas",
+                "file": "2026-05-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Group Project"
+              "title": "Outline of 2026-05-20"
             }
           }
         ]
@@ -203,12 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd47d1c6be158a51",
+  "active": "6caadd5de6775e14",
   "lastOpenFiles": [
     "2026-05-20.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Group Project.canvas",
+    "settins.md",
     "Welcome.md",
-    "Untitled.base",
-    "Untitled.canvas"
+    "Untitled.base"
   ]
 }
